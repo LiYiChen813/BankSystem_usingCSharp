@@ -53,8 +53,10 @@ namespace BankManage
                 int id = int.Parse(Console.ReadLine());
 
                 account[id] = null;
+                K--;
+                NewID =id-1;
                 Console.WriteLine("帳戶已經刪除");
-
+                
                
             }
 
