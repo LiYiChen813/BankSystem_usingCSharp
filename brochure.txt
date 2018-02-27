@@ -5,3 +5,6 @@ when I delete an account,I should add the account and use the same ID.
 But the ID variable N will add 1 (N++)
 
 It's a problem. Maybe someday I will try to modify it.
+
+------------------------------------------------------
+fix a bug about deleting an account and adding a new one ,but showing the wrong ID number  
