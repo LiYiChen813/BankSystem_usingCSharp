@@ -1,0 +1,7 @@
+D:\csharPractice\BankManage\obj\Debug\BankManage.csprojResolveAssemblyReference.cache
+D:\csharPractice\BankManage\obj\Debug\BankManage.csproj.CoreCompileInputs.cache
+D:\csharPractice\BankManage\bin\Debug\BankManage.exe.config
+D:\csharPractice\BankManage\bin\Debug\BankManage.exe
+D:\csharPractice\BankManage\bin\Debug\BankManage.pdb
+D:\csharPractice\BankManage\obj\Debug\BankManage.exe
+D:\csharPractice\BankManage\obj\Debug\BankManage.pdb
