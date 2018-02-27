@@ -1,0 +1,7 @@
+still has one function to finish.
+
+when I delete an account,I should add the account and use the same ID.
+
+But the ID variable N will add 1 (N++)
+
+It's a problem. Maybe someday I will try to modify it.
